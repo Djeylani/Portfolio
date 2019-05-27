@@ -12,13 +12,13 @@ body {
     border-radius: 25%;
 }
 
-a {
-    color: #333;
-    text-decoration: none;
+.jumbotron a {
+    color: #333 !important;
+    text-decoration: none !important;
 }
 
-a:hover {
-    color: #000;
-    text-decoration: none;
+.jumbotron a:hover {
+    color: #000 !important;
+    text-decoration: none !important;
 }
 
