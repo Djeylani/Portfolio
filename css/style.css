@@ -1,11 +1,11 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 body {
     font-family: "Lobster", cursive;
+    box-sizing: border-box;
 }
 
 .btn-success {
@@ -22,3 +22,7 @@ body {
     text-decoration: none !important;
 }
 
+
+#about {
+    margin-top: 80px !important;
+}
